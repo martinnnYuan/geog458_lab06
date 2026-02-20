@@ -1,5 +1,8 @@
 # Traffic Safety in Seattle (2022)
 
+## AI Disclosure
+No AI used in this assignment.
+
 This project is an interactive web map of 2022 traffic safety conditions in Seattle. It integrates collision records with traffic flow counts to support exploratory analysis of where severe crashes and high-risk road segments are located.
 
 ## Data Sources
